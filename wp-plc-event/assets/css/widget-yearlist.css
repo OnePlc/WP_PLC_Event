@@ -1,0 +1,22 @@
+.plc-calendar-list-date .date-day {
+    font-size:36px;
+    font-weight:bold;
+    line-height:42px;
+}
+
+.plc-calendar-list-date .date-weekday {
+    font-size:13px;
+    line-height:15px;
+}
+
+.plc-calendar-list-date .date-month {
+    font-size:18px;
+    font-weight:bold;
+    line-height:22px;
+}
+
+.plc-calendar-list-date .date-weekday, .plc-calendar-list-date .date-day, .plc-calendar-list-date .date-month {
+    width:100%;
+    float:left;
+    text-align: center;
+}
